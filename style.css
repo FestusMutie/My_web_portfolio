@@ -45,15 +45,19 @@
     #about{
         display: flex;
         padding: 20px 5px 20px 25px;
+        margin-left:9% ;
+        background-image:;
        
+    }
+    #coding{
+        margin-left: 11%;
     }
     #interests{
         display: flex;
-        margin-top: 20%;
-        
-    }
-    #hobbies{
-        margin-right: 1%;
-        border-right: solid black;
-    }
+        margin-top: 5%;
+        margin-left: 10%;
+        border:solid black;
+        padding-left: 30%;
+         }
+         
     
