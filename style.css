@@ -2,14 +2,14 @@
     background-color: rgb(53, 146, 146);
 }
 #topic{
-    color:black;
-    align-items: center;
+    color:maroon;
+    margin-left: 35%;
 }
 a{
     color:maroon;
 }
 span{
-    color:rgb(21, 21, 77);
+    color:maroon;
 }
 .header{
     display: flex;
@@ -55,6 +55,9 @@ span{
     #project3{
         margin-left: 6%;
     }
+    #title>h4{
+        margin-bottom: 20%;
+    }
     #background>p{
 color: white;
     }
@@ -88,6 +91,7 @@ color: white;
         margin-left: 10%;
         border:solid black;
         padding-left: 30%;
+        
          }
          footer{
              margin-left: 45%;
