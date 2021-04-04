@@ -9,6 +9,9 @@
     flex-direction: row;
     float: inline-end;
     margin-left: 70%;
+    justify-content:space-evenly;
+    border-bottom: solid black;
+    padding bottom: ;:20px ;
     
 }
 #intro{
@@ -31,3 +34,26 @@
     color: white;
     font-size: small;
 }
+#projects{
+    border:5px solid black;
+    display: flex;
+    padding-top: 40px;
+    }
+    projects>project1>p{
+        color: chocolate;
+    }
+    #about{
+        display: flex;
+        padding: 20px 5px 20px 25px;
+       
+    }
+    #interests{
+        display: flex;
+        margin-top: 20%;
+        
+    }
+    #hobbies{
+        margin-right: 1%;
+        border-right: solid black;
+    }
+    
