@@ -17,11 +17,17 @@
 }
 #quote1{
     margin-left: 10%;
+    color: white;
+    font-size: xx-large;
 }
 #quote2{
     margin-left: 15%;
+    color: white;
+    font-size: xx-large;
 }
 #quote3{
     margin-right: 15%;
-    margin-top: 10%;
+    margin-top: 20%;
+    color: white;
+    font-size: small;
 }
