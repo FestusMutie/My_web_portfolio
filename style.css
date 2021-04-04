@@ -1,0 +1,27 @@
+.{
+    background-color: teal;
+}
+#topic{
+    color: slategrey;
+}
+.header{
+    display: flex;
+    flex-direction: row;
+    float: inline-end;
+    margin-left: 70%;
+    
+}
+#intro{
+    display: flex;
+    flex-direction: row;
+}
+#quote1{
+    margin-left: 10%;
+}
+#quote2{
+    margin-left: 15%;
+}
+#quote3{
+    margin-right: 15%;
+    margin-top: 10%;
+}
