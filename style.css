@@ -3,7 +3,8 @@
 }
 #topic{
     color:maroon;
-    margin-left: 35%;
+    margin-left: 40%;
+    
 }
 a{
     color:maroon;
@@ -14,11 +15,10 @@ span{
 .header{
     display: flex;
     flex-direction: row;
-    float: inline-end;
-    margin-left: 70%;
-    justify-content:space-evenly;
-    border-bottom: solid black;
-    padding bottom: ;:20px ;
+    justify-content:space-around;
+    border:solid maroon;
+    background-color: rgb(41, 40, 38);
+    
     
 }
 #intro{
@@ -78,7 +78,7 @@ color: white;
     #about{
         display: flex;
         padding: 20px 5px 20px 25px;
-        margin-left:9% ;
+        margin-left:9%;
         background-image:;
        
     }
@@ -91,8 +91,7 @@ color: white;
         margin-left: 10%;
         border:solid black;
         padding-left: 30%;
-        
-         }
+        }
          footer{
              margin-left: 45%;
              margin-top: 5%;
