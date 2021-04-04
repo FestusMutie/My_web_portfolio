@@ -45,7 +45,7 @@ span{
     font-size: small;
 }
 #projects{
-    border:5px solid black;
+    border:5px dotted black;
     display: flex;
     padding-top: 40px;
     }
@@ -93,6 +93,7 @@ color: white;
         margin-left: 10%;
         border:solid black;
         padding-left: 30%;
+        margin-right: 10%;
         }
          footer{
              color: maroon;
@@ -101,4 +102,4 @@ color: white;
              background-image: url(./pic/pictures/FB_IMG_16175447201081184.jpg);
          }
          
-    
+     
