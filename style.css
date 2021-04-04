@@ -18,9 +18,12 @@ span{
     justify-content:space-around;
     border:solid maroon;
     background-color: rgb(41, 40, 38);
-    
-    
+    background-image: url(./pic/pictures/FB_IMG_16175447201081184.jpg);
+    }
+#home{
+    margin-left: 70%;
 }
+
 #intro{
     display: flex;
     flex-direction: row;
@@ -79,8 +82,7 @@ color: white;
         display: flex;
         padding: 20px 5px 20px 25px;
         margin-left:9%;
-        background-image:;
-       
+        
     }
     #coding{
         margin-left: 11%;
