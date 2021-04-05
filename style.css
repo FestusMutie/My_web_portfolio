@@ -1,29 +1,19 @@
 *{
     background-color: rgb(53, 146, 146);
 }
-#topic{
-    color:maroon;
-    margin-left: 40%;
+nav{
+    margin-left: 80%;
+    margin-top: 5px;
     
-}
-a{
+    }
+    
+
+        a{
     color:maroon;
 }
 span{
     color:maroon;
 }
-.header{
-    display: flex;
-    flex-direction: row;
-    justify-content:space-around;
-    border:solid maroon;
-    background-color: rgb(41, 40, 38);
-    background-image: url(./pic/pictures/FB_IMG_16175447201081184.jpg);
-    }
-#home{
-    margin-left: 70%;
-}
-
 #intro{
     display: flex;
     flex-direction: row;
