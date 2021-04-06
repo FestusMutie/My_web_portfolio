@@ -5,7 +5,7 @@ By Festus Mutie
 This my website to showcase my skills in software development,academic background ,interests and hobbies.Here,you will find a list of projects that I have worked on ever since I joined Moringa School.
 
 ## Setup/Installation Requirements
-Follow this link to access the website https://festusmutie.github.io/restaurant-landingpage/
+Follow this link to access the website https://festusmutie.github.io/My_web_portfolio/
 
 ## Known Bugs
 The site is not responsive
